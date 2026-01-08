@@ -95,7 +95,7 @@ body {
 
 .profile-image {
     flex-shrink: 0;
-    max-width: 300px;
+    max-width: 250px;
     overflow: hidden;
 }
 
@@ -264,7 +264,7 @@ body {
     }
 
     .profile-image {
-        max-width: 100%;
+        max-width: 200px;
     }
 
     .profile-info {
